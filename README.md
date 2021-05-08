@@ -1,4 +1,4 @@
-# Olá, Eu sou o Eduardo Tadeu. 
+# Bem vindo ao meu git. 
 <div>
   <a href="https://github.com/eduardotsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardotsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
