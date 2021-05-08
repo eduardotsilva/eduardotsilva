@@ -1,4 +1,4 @@
-# Bem vindo ao meu git. 
+# Bem vindo ao git do E.T 
 <div>
   <a href="https://github.com/eduardotsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardotsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
