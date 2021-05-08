@@ -1,2 +1,1 @@
-# Olá! 
-# Eu sou o Eduardo Tadeu
+# Olá, Eu sou o Eduardo Tadeu. 
