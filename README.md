@@ -7,7 +7,7 @@ Meu repositório está composto por projetos em:
 
 Sou analista de sistemas/desenvolvedor back-end com :foot: no front-end e me aventuro no mobile. <br>
 Bacharel em ciência da computação, certificado OCA Java, Profissional Scrum Master.  <br>
-Amante de T.I **AND** contabilidade pública. <br>
+Amante de T.I *and* contabilidade pública. <br>
 #Alwayslearning.<br>
 
 Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH  <br>
