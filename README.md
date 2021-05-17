@@ -5,7 +5,7 @@ Meu repositório está composto por projetos em:
 >2. Angular :computer: 
 >3. Flutter :iphone: 
 
-Sou Analista de Sistemas/desenvolvedor back-end com :foot: no front-end, que se aventura no mobile. <br>
+Sou analista de sistemas/desenvolvedor back-end com :foot: no front-end, que se aventura no mobile. <br>
 Bacharel em ciência da computação, certificado OCA Java, Profissional Scrum Master.  <br>
 Amante de T.I **AND** contabilidade pública. <br>
 #Alwayslearning.<br>
