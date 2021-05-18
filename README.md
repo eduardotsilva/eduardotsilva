@@ -6,7 +6,7 @@ Os repositórios são compostos por projetos em:
 >3. Flutter :iphone: 
 
 Sou analista de sistemas/desenvolvedor back-end com :foot: no front-end e me aventuro no mobile. <br>
-Bacharel em ciência da computação, possuo as certificações OCA Java, Profissional Scrum Master e com mais de 5 anos de experiência em desenvolvimento <br>
+Bacharel em ciência da computação, possuo as certificações OCA Java, Profissional Scrum Master e com mais de 5 anos de experiência em desenvolvimento. <br>
 Amante de T.I *and* contabilidade pública. <br>
 
 Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH.  <br>
