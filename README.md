@@ -9,8 +9,8 @@ Sou analista de sistemas/desenvolvedor back-end com :foot: no front-end e me ave
 Bacharel em ciência da computação, possuo as certificações OCA Java, Profissional Scrum Master.  <br>
 Amante de T.I *and* contabilidade pública. <br>
 
-Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH  <br>
-ouvinte das vertentes mais variadas da música eletrônica :headphones:
+Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH.  <br>
+Ouvinte das vertentes mais variadas da música eletrônica :headphones:
 
 <div>
   <a href="https://github.com/eduardotsilva">
