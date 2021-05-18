@@ -8,7 +8,6 @@ os repositórios são compostos por projetos em:
 Sou analista de sistemas/desenvolvedor back-end com :foot: no front-end e me aventuro no mobile. <br>
 Bacharel em ciência da computação, possuo as certificações OCA Java, Profissional Scrum Master.  <br>
 Amante de T.I *and* contabilidade pública. <br>
-#Alwayslearning.<br>
 
 Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH  <br>
 ouvinte das vertentes mais variadas da música eletrônica :headphones:
@@ -26,3 +25,5 @@ ouvinte das vertentes mais variadas da música eletrônica :headphones:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 </div>
+
+#Alwayslearning.<br>
