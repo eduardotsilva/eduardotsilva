@@ -26,4 +26,7 @@ ouvinte das vertentes mais variadas da música eletrônica :headphones:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 </div>
 
-#Alwayslearning.<br>
+<br>
+<br>
+<br>
+#Alwayslearning.
