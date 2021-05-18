@@ -1,6 +1,6 @@
 ## Olá, bem-vindo!
 Me chamo Eduardo Tadeu :upside_down_face: e você está no meu github :octocat:  <br>
-Meu repositório está composto por projetos em:
+os repositórios são compostos por projetos em:
 >1. Java (Spring) :computer: 
 >2. Angular :computer: 
 >3. Flutter :iphone: 
