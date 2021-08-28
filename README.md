@@ -12,7 +12,7 @@ Ouvinte das vertentes mais variadas da música eletrônica :headphones:
 
 <div>
   <a href="https://github.com/eduardotsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardotsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardotsilva&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotsilva&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
