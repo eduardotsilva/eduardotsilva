@@ -10,6 +10,8 @@ Amante de T.I *and* contabilidade pública. <br>
 Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH.  <br>
 Ouvinte das vertentes mais variadas da música eletrônica :headphones:
 
+Tenho experiência com Java Spring Boot + Angular, porém minha atividade principal é PL SQL atualmente
+
 <div>
   <a href="https://github.com/eduardotsilva">
     
