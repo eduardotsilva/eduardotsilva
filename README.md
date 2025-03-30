@@ -6,9 +6,8 @@ Os repositórios são compostos por projetos em:
 
 Sou analista de sistemas/desenvolvedor back-end com :foot: no front-end e me aventuro no mobile. <br>
 Amante de T.I *and* contabilidade pública. <br>
-Possuo experiência com Java Spring Boot + Angular + PL SQL  <br>
-Nas horas vagas, cuiabano :fire: que sente um trem :steam_locomotive: por BH.  <br>
-Ouvinte das vertentes mais variadas da música eletrônica :headphones:
+Java + Angular + PL SQL + Flutter <br>
+
 
 
 <div>
